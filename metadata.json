@@ -1,0 +1,6 @@
+{
+  "name": "north.tennisclub",
+  "description": "سامانه رزرو آنلاین زمین‌های تنیس، پدل و ساحلی باشگاه north.tennisclub",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
